@@ -1,0 +1,3 @@
+//! See the translation.tsx file for more information.
+
+//! The app will load once the translations are loaded.
